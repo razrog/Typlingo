@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="3px"
+    android:keyHeight="50dp" >
+    <Row android:horizontalGap="15px">
+        <Key android:codes="151" android:keyLabel="\u05E7" android:keyEdgeFlags="left"/><!--ק-->
+        <Key android:codes="152" android:keyLabel="\u05E8"/><!--ר-->
+        <Key android:codes="128" android:keyLabel="\u05D0"/><!--א-->
+        <Key android:codes="136" android:keyLabel="\u05D8"/><!--ט-->
+        <Key android:codes="133" android:keyLabel="\u05D5"/><!--ו-->
+        <Key android:codes="143" android:keyLabel="\u05DF"/><!--ן-->
+        <Key android:codes="141" android:keyLabel="\u05DD"/><!--ם-->
+        <Key android:codes="148" android:keyLabel="\u05E4"/><!--פ-->
+        <Key android:codes="-5" android:keyLabel="\u2326" android:keyWidth="20%p" android:isRepeatable="true"/><!--DeleteButton-->
+    </Row>
+    <Row android:horizontalGap="15px">
+        <Key android:codes="153" android:keyLabel="\u05E9" android:keyEdgeFlags="left"/><!--ש-->
+        <Key android:codes="131" android:keyLabel="\u05D3"/><!--ד-->
+        <Key android:codes="130" android:keyLabel="\u05D2"/><!--ג-->
+        <Key android:codes="139" android:keyLabel="\u05DB"/><!--כ-->
+        <Key android:codes="146" android:keyLabel="\u05E2"/><!--ע-->
+        <Key android:codes="137" android:keyLabel="\u05D9"/><!--י-->
+        <Key android:codes="135" android:keyLabel="\u05D7"/><!--ח-->
+        <Key android:codes="140" android:keyLabel="\u05DC"/><!--ל-->
+        <Key android:codes="138" android:keyLabel="\u05DA"/><!--ך-->
+        <Key android:codes="147" android:keyLabel="\u05E3"/><!--ף-->
+    </Row>
+    <Row android:horizontalGap="15px">
+        <Key android:codes="134" android:keyLabel="\u05D6" android:keyWidth="10%p" android:keyEdgeFlags="left"/><!--ז-->
+        <Key android:codes="145" android:keyLabel="\u05E1"/><!--ס-->
+        <Key android:codes="129" android:keyLabel="\u05D1"/><!--ב-->
+        <Key android:codes="132" android:keyLabel="\u05D4"/><!--ה-->
+        <Key android:codes="144" android:keyLabel="\u05E0"/><!--נ-->
+        <Key android:codes="142" android:keyLabel="\u05DE"/><!--מ-->
+        <Key android:codes="150" android:keyLabel="\u05E6"/><!--צ-->
+        <Key android:codes="154" android:keyLabel="\u05EA"/><!--ת-->
+        <Key android:codes="149" android:keyLabel="\u05E5" android:keyWidth="20%p"/><!--ץ-->
+    </Row>
+    <Row android:rowEdgeFlags="bottom" android:horizontalGap="15px">
+        <Key android:codes="-445" android:keyLabel="\?123" android:keyWidth="15%p" android:keyEdgeFlags="left"/>
+        <Key android:codes="-446" android:keyLabel="Loc" android:keyWidth="15%p"/>
+        <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="60%p" android:isRepeatable="true"/>
+        <Key android:codes="-4" android:keyLabel="\u2713" android:keyWidth="20%p" android:keyEdgeFlags="right"/><!--DoneButton-->
+    </Row>
+</Keyboard>

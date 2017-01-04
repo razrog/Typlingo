@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/raz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_c32ebd45c32cfdd3b8ae9fedc75f761e36b21ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e4c8cb9d87bd4fc5326d5197e959c2bb8eebc6b">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34aaa003c7c611c5aa020fb805420c0e19dc3c71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d20a6f72130bb34f7ddcefacd77619c8babbf006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a6e3c67c680a7d44aa3253ff28c66279815a2b95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d5935045eeadd0886d8fd085fb9c8f96ca31bd">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9052a34c5308c31a71d09deaf502418359a22d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_7795c73283a09190a1d57f74cebcc42418c4d1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_89d5d917dc4e76e0faaeb25e9acd9c856775c004/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_58f738972c0a249bf3cd6f46c73853e1f244c450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_d471057ab10e6b28eba2866f4b44174a847c7462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_5eece8aa0c708e1c8d909a3fcfe54d88e3caf6e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_8bedae512f893c6dd8b571f91a5ea929922b35ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_50387d00a6c90008e4cfcfdb8ba63f191486b47e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_b48f9eed77b5406cb58998a06603c021e6566e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_3751d85cbde8b0617f17c1ac58237d91aab0e681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_32a003efc827cf9b955f8b90296c2783260e4c0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9708a15897f15e58e9193d01132ec551c6077694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_748b2930a41cf0726e22fa68b9d6bd4e95f5ec44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ac0326d26e6357ac866b906693608196cfd0e425/classes.dex" />
+    </item>
+
+</items>

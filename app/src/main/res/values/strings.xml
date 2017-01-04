@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Typlingo</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_keyboard">BullyFreeKeyboard</string>
+    <string name="qwerty_keyboard">Qwerty_Keyboard</string>
+    <string name="symbols_keyboard">Symbols_Keyboard</string>
+    <string name="sybtype_en_US">English (US)</string>
+</resources>

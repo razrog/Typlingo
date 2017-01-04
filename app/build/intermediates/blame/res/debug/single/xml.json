@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/raz/dev/AndroidProjects/Typlingo/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/res/merged/debug/xml/qwerty.xml",
+        "source": "/Users/raz/dev/AndroidProjects/Typlingo/app/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/res/merged/debug/xml/heb_keys.xml",
+        "source": "/Users/raz/dev/AndroidProjects/Typlingo/app/src/main/res/xml/heb_keys.xml"
+    },
+    {
+        "merged": "/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/res/merged/debug/xml/symbols.xml",
+        "source": "/Users/raz/dev/AndroidProjects/Typlingo/app/src/main/res/xml/symbols.xml"
+    }
+]

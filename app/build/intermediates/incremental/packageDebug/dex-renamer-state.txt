@@ -1,0 +1,7 @@
+#Sun Jan 01 15:42:25 IST 2017
+base.0=/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9052a34c5308c31a71d09deaf502418359a22d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34aaa003c7c611c5aa020fb805420c0e19dc3c71/classes.dex
+base.1=/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_34aaa003c7c611c5aa020fb805420c0e19dc3c71
+file.0=/Users/raz/dev/AndroidProjects/Typlingo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9052a34c5308c31a71d09deaf502418359a22d/classes.dex
